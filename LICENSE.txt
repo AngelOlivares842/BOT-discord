@@ -1,1 +1,7 @@
+La licencia de este proyecto esta hecha para evitar problemas con quienes quieran usar maliciosamente el codigo
+
+Este fue echo con la finalida de ser open source y que cualquiera pueda usar este proyecto para lo que mas le convenga siempre y cuando quiera aprender a desarrolar un bot de discord
+y no se permite la distribucion con fines de lucro tampoco fines comerciales
+
+
 Discord © 2025 de AngelOlivares tiene licencia CC BY-NC 4.0. Para ver una copia de esta licencia, visite https://creativecommons.org/licenses/by-nc/4.0/
