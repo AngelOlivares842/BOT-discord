@@ -4,7 +4,7 @@ BOT de discord con multi funciones, se esta adaptando para nuevas funciones futu
 ahora mismo solo esta con funciones de entretencion ya que las funciones
 de administracion y jerarquias son bastante mas complicada pero no es algo que no se pueda hacer
 
-‼️ *PROYECTO OPEN SOURCE
+‼️ *PROYECTO OPEN SOURCE*
 
 ‼️ *TODAVIA SE ENCUENTRA EN FASE DE PRUEBA*
 
