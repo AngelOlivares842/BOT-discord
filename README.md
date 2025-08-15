@@ -6,6 +6,15 @@ de administracion y jerarquias son bastante mas complicada pero no es algo que n
 
 ‼️*TODAVIA SE ENCUENTRA EN FASE DE PRUEBA*
 
+Forma de uso
+
+1.necesitas el token de tu bot y lo colocas en el .env del archivo de la raiz
+
+2.es opcional pero muy recomendado colocar el id de tu bot
+
+3.para ejecutar el bot usa el comando "node ." en la terminal siempre que quieras ejecutar tu proyecto de forma local si usas un servicios de host tienes que adaptarlo al host
+casi siempre solo te piden algunas variables de entorno y si o si tu token y tu id de usuario
+
 <img width="1000" height="100" alt="image" src="https://github.com/user-attachments/assets/515549f3-f49b-4422-b04d-c78a85e1d711" />
 
 su finalidad es entretener a una audiencia mientra la persona natural/sreamer no este en directo oh activo tiene funciones como:
