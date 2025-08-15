@@ -1,6 +1,7 @@
 # PROYECTO DISCORD
 
-BOT de discord con multi funciones, se esta adaptando para nuevas funciones futuras es un "proyecto personal" ahora mismo solo esta con funciones de entretencion ya que las funciones
+BOT de discord con multi funciones, se esta adaptando para nuevas funciones futuras es un "proyecto personal" Su finalidad es entretener a una audiencia mientra la persona natural/sreamer no este en directo oh activo, 
+ahora mismo solo esta con funciones de entretencion ya que las funciones
 de administracion y jerarquias son bastante mas complicada pero no es algo que no se pueda hacer
 
 ‼️*TODAVIA SE ENCUENTRA EN FASE DE PRUEBA*
@@ -25,7 +26,6 @@ node .
 
 <img width="1000" height="100" alt="image" src="https://github.com/user-attachments/assets/515549f3-f49b-4422-b04d-c78a85e1d711" />
 
-Su finalidad es entretener a una audiencia mientra la persona natural/sreamer no este en directo oh activo, tiene funciones como:
 
 
 ## Funciones
