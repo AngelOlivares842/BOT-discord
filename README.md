@@ -60,7 +60,9 @@ tambien se uso el formato Json para almacenaje temporal/dinamico y estoy usando 
 
 Y muchas gracias a bittami y a su equipo por darme la oportunidad de usar esta plantilla de bot en su servidor [BittaTwitch] 🐇
 
+© 2025 by <a href="https://creativecommons.org">Angel olivares</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a>
 
+<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
 <!--
 Enlaces
