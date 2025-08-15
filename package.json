@@ -7,7 +7,8 @@
   },
   "dependencies": {
     "discord.js": "^14.12.1",
-    "dotenv": "^16.0.3"
+    "dotenv": "^16.0.3",
+    "env": "^0.0.2"
   },
   "engines": {
     "node": "18.x"
