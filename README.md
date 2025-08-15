@@ -39,13 +39,12 @@ su finalidad es entretener a una audiencia mientra la persona natural/sreamer no
   
 * confesiones anonimas
 
-*alguna de estas funciones estan en el codigo en "/not usable" pero se tienen que implementar de la forma correcta o podria dar bastantes errores*
 
 <img width="1000" height="100" alt="image" src="https://github.com/user-attachments/assets/6ed332b7-583c-4c52-9993-a483c5aad8de" />
 
 
 
-* Este proyecto esta basado en el idioma de programasion JavaScript se utilizo en su totalidad la libreria Discord.js para una mayor facilidad de trabajo tambien ahora mismo estoy usando sqlite3 (aun que probablemente lo cambie por temas de campatiblidad con el virtualizador)
+* Este proyecto esta basado en el idioma de programasion JavaScript se utilizo en su totalidad la libreria Discord.js para una mayor facilidad de trabajo
 tambien se uso el formato Json para almacenaje temporal y estoy usando los servidores de Railway para que siempre este activo
 
 
