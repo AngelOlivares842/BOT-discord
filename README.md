@@ -27,7 +27,7 @@ node .
 
 6. Revisar cada unos de los archivos ya que algunos tienen instrucciones especificas para un canal de discord
 
-7. El bot esta diseñado para un solo servidor de discord ya que resive informacion desde el config.json de cierts canales
+7. El bot esta diseñado para un solo servidor de discord ya que resibe informacion de forma simple y no tiene forma de alamacenar ej: id de canales, roles oh de usuarios
 
 <img width="1000" height="100" alt="image" src="https://github.com/user-attachments/assets/515549f3-f49b-4422-b04d-c78a85e1d711" />
 
