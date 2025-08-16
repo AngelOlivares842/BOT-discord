@@ -23,7 +23,7 @@ casi siempre solo te piden algunas variables de entorno y si o si tu token y tu 
 node .
 ```
 
-5. No usa sistema de base de datos como mongo o oracle ya que generaba muchos problemas con los virtualizades pero es mejor intentar usar mongo a sql ya que los virtualizadores estan basados en linux
+5. No usa sistema de base de datos como mongo o oracle ya que generaba muchos problemas con los virtualizades pero es mejor intentar usar mongo que sql ya que los virtualizadores estan basados en linux y linux no trabaja tan bien con sql
 
 6. Revisar cada unos de los archivos ya que algunos tienen instrucciones especificas para un canal de discord
 
