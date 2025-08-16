@@ -46,7 +46,14 @@ node .
 
 - [ ] Reinicios automatizados ante errores fatales
 
-- [ ] EMBDS totalmente personalizados
+- [ ] EMBEDS totalmente personalizados
+
+| Comando | Descripción |
+|---------|-------------|
+| /confesar | Envia una confesion anonima |
+| /rps | Juega piedra, papel o tijeras contra el bot |
+| /coinflip | Lanza una moneda virtual |
+| /8ball | Haz una pregunta a la bola magica |
   
 
 <img width="1000" height="100" alt="image" src="https://github.com/user-attachments/assets/6ed332b7-583c-4c52-9993-a483c5aad8de" />
