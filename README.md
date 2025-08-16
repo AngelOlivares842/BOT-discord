@@ -16,7 +16,7 @@ de administracion y jerarquias son bastante mas complicada pero no es algo que n
 
 3. Para ejecutar el bot usa el comando "node ." en la terminal siempre que quieras ejecutar tu proyecto de forma local si usas un servicios de host tienes que adaptarlo al host
 casi siempre solo te piden algunas variables de entorno y si o si tu token y tu id de usuario ⚠️recuerda borrar el .env si vas a usar un servicio en linea
-```bash
+``` bash
 node .
 ```
 
