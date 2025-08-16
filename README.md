@@ -1,8 +1,11 @@
 # PROYECTO DISCORD
+[![Estado](https://img.shields.io/badge/Estado-En%20Desarrollo-yellowgreen.svg)]()
 
 BOT de discord con multi funciones, se esta adaptando para nuevas funciones futuras es un "proyecto personal" Su finalidad es entretener a una audiencia mientra la persona natural/sreamer no este en directo oh activo, 
 ahora mismo solo esta con funciones de entretencion ya que las funciones
 de administracion y jerarquias son bastante mas complicada pero no es algo que no se pueda hacer
+
+Y muchas gracias a bittami y a su equipo por darme la oportunidad de usar esta plantilla de bot en su servidor [BittaTwitch] 🐇
 
 ‼️ *PROYECTO OPEN SOURCE*
 
@@ -54,7 +57,9 @@ node .
 | /rps | Juega piedra, papel o tijeras contra el bot |
 | /coinflip | Lanza una moneda virtual |
 | /8ball | Haz una pregunta a la bola magica |
-  
+
+
+[![Licencia](https://img.shields.io/badge/Licencia-MIT-blue.svg)](LICENSE)
 
 <img width="1000" height="100" alt="image" src="https://github.com/user-attachments/assets/6ed332b7-583c-4c52-9993-a483c5aad8de" />
 
@@ -63,11 +68,16 @@ node .
 * Este proyecto esta basado en el idioma de programasion JavaScript se utilizo en su totalidad la libreria Discord.js para una mayor facilidad de trabajo
 tambien se uso el formato Json para almacenaje temporal/dinamico y estoy usando los servidores de Railway para que siempre este activo
 
+* Futuras opciones para update
+  
+| Idioma | funcion |
+|---------|-------------|
+| MongoDB | Sistema para almacena dinamico |
 
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/965f3412-664c-42ac-9910-44170e5e5d5f" /> <img width="180" height="180" alt="image" src="https://github.com/user-attachments/assets/56ad7682-a17c-47f3-82bb-6649cdfa7661" />
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/965f3412-664c-42ac-9910-44170e5e5d5f" /> <img width="190" height="190" alt="image" src="https://github.com/user-attachments/assets/56ad7682-a17c-47f3-82bb-6649cdfa7661" /><img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/148bbd52-969c-4847-854e-8bae68c93c0d" /><img width="180" height="180" alt="image" src="https://github.com/user-attachments/assets/6b1bbc4c-9c31-407e-94d7-af1f0302f9f3" />
 
 
-Y muchas gracias a bittami y a su equipo por darme la oportunidad de usar esta plantilla de bot en su servidor [BittaTwitch] 🐇
+
 
 © 2025 by <a href="https://creativecommons.org">Angel olivares</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a>
 
@@ -77,6 +87,5 @@ Y muchas gracias a bittami y a su equipo por darme la oportunidad de usar esta p
 Enlaces
 -->
 [BittaTwitch]: https://www.twitch.tv/bittami
-
 
 
