@@ -59,8 +59,6 @@ node .
 | /8ball | Haz una pregunta a la bola magica |
 
 
-[![Licencia](https://img.shields.io/badge/Licencia-MIT-blue.svg)](LICENSE)
-
 <img width="1000" height="100" alt="image" src="https://github.com/user-attachments/assets/6ed332b7-583c-4c52-9993-a483c5aad8de" />
 
 
