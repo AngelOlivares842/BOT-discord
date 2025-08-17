@@ -1,3 +1,5 @@
+MIT License
+
 La licencia de este proyecto esta creada para evitar problemas con quienes quieran usar maliciosamente el codigo
 
 Este fue creado con la finalida de ser open source y que cualquiera pueda usar este proyecto para lo que mas le convenga siempre y cuando quiera aprender a desarrolar un bot de discord
